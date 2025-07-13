@@ -42,7 +42,7 @@ Innovative and detail-oriented developer with a passion for building impactful s
 
 ## 📬 Get in Touch
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/janani-priya-k-b7228b2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+
 - 📧 Email: jancse232005@gmail.com  
 
 
