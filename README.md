@@ -1,6 +1,6 @@
 # 👩‍💻 Janani Priya
 
-Innovative and detail-oriented developer with a passion for building impactful software and embedded system solutions. I specialize in Python, JavaScript, and real-time applications that bridge the gap between user experience and hardware automation.
+Innovative and detail-oriented developer with a passion for building impactful software and embedded system solutions. I specialize in Python, JavaScript, HTML and CSS and real-time applications that bridge the gap between user experience and hardware automation.
 
 ---
 
@@ -28,15 +28,15 @@ Innovative and detail-oriented developer with a passion for building impactful s
 - Loops, Conditions, Operators
 - Keyed Collections: `Map`, `Set`, `WeakMap`, `WeakSet`
 - Embedded Systems Design
-- GUI/UX Development for Desktop Apps
+
 
 ---
 
 ## 🎯 Currently Exploring
 
 - Advanced JavaScript interview preparation  
-- Real-time project integration using front-end and microcontrollers  
-- Clean and modular GUI application development  
+- Real-time project integration using front-end 
+- Python enthusiastic , Exploring for a real - time project
 
 ---
 
